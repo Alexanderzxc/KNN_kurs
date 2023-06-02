@@ -1,0 +1,15 @@
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.csproj.AssemblyReference.cache
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.AssemblyInfoInputs.cache
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.AssemblyInfo.cs
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\bin\Debug\net6.0\KNN_kursovaya.exe
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\bin\Debug\net6.0\KNN_kursovaya.deps.json
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\bin\Debug\net6.0\KNN_kursovaya.runtimeconfig.json
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\bin\Debug\net6.0\KNN_kursovaya.dll
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\bin\Debug\net6.0\KNN_kursovaya.pdb
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.dll
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\refint\KNN_kursovaya.dll
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.pdb
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\KNN_kursovaya.genruntimeconfig.cache
+C:\Users\sasha\RiderProjects\KNN_kursovaya\KNN_kursovaya\obj\Debug\net6.0\ref\KNN_kursovaya.dll
